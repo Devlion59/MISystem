@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MISystem.Classes.District">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Classes\District.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.Element">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.LocationOfMI">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAgBAAAABAAAIAAAAAAAAA=</HashCode>
+      <FileName>Classes\LocationOfMI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.MeasInstrFromRef">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classes\MeasInstrFromRef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.MeasurInstr">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAIAAABAAAAAAAAACBAAAEAAKAAAAAAVAAAAAA=</HashCode>
+      <FileName>Classes\MeasurInstr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.OandGPF">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAggAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Classes\OandGPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.Phase">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Phase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.ProductionFacility">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAIAAAAAAAAAAACAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Classes\ProductionFacility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.Tools">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kgAcBIIDQABIABEEEAAINAAAIoIKEQERAAAEAAAAAAE=</HashCode>
+      <FileName>Classes\Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MISystem.Classes.TypeOfMI">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\TypeOfMI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

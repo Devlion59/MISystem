@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\MISystem\MISystemLibrary\bin\Debug\netcoreapp3.1\MISystemLibrary.deps.json
+C:\Users\User\source\repos\MISystem\MISystemLibrary\bin\Debug\netcoreapp3.1\MISystemLibrary.dll
+C:\Users\User\source\repos\MISystem\MISystemLibrary\bin\Debug\netcoreapp3.1\MISystemLibrary.pdb
+C:\Users\User\source\repos\MISystem\MISystemLibrary\obj\Debug\netcoreapp3.1\MISystemLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MISystem\MISystemLibrary\obj\Debug\netcoreapp3.1\MISystemLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MISystem\MISystemLibrary\obj\Debug\netcoreapp3.1\MISystemLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\MISystem\MISystemLibrary\obj\Debug\netcoreapp3.1\MISystemLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MISystem\MISystemLibrary\obj\Debug\netcoreapp3.1\MISystemLibrary.dll
+C:\Users\User\source\repos\MISystem\MISystemLibrary\obj\Debug\netcoreapp3.1\MISystemLibrary.pdb
